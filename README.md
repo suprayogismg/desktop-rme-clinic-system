@@ -16,15 +16,15 @@ Desktop-based Electronic Medical Record (EMR/RME) system for clinic operations, 
     
 ## Modules
 ## Screenshots
-login_rme.png
-dashboard_rme.png
-pendaftaran_rme.png
-pemeriksaan1_rme.png
-pemeriksaan2_rme.png
-pemeriksaan3_rme.png
-kasir_rme.png
-laporan_rme.png
-keuangan_rme.png
+![Login](docs/login_rme.png)
+![Dashboard](docs/dashboard_rme.png)
+![Registration](docs/pendaftaran_rme.png)
+![patient examination1](docs/pemeriksaan1_rme.png)
+![patient examination2](docs/pemeriksaan2_rme.png)
+![patient examination3](docs/pemeriksaan3_rme.png)
+![cashier](docs/kasir_rme.png)
+![report](docs/laporan_rme.png)
+![finance](docs/keuangan_rme.png)
 
 ## Technology Stack
 - Java Desktop
@@ -139,6 +139,6 @@ Reporting
    - Financial reporting
      
 ## Disclaimer
-
+This repository is intended for portfolio and case study purposes only. Sensitive client data and proprietary business logic have been removed.
 ## Author 
 Suprayogi
